@@ -22,7 +22,7 @@ class _WebViewStackState extends State<WebViewStack> {
     return Stack(
       children: [
         WebView(
-          initialUrl: 'https://gabrielbatemarque.vercel.app',
+          initialUrl: 'https://www.baratobebe.com.br',
           userAgent: 'random',
           gestureNavigationEnabled: true,
           onWebViewCreated: (webViewController) {
